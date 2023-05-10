@@ -1,0 +1,35 @@
+===============
+Time spent in sorting 10 elements with BubbleSort:
+10045 in nanoseconds
+Time spent in sorting 100 elements with BubbleSort:
+50025 in nanoseconds
+Time spent in sorting 1000 elements with BubbleSort:
+970268 in nanoseconds
+===============
+Time spent in sorting 10 elements with SelectionSort:
+0 in nanoseconds
+Time spent in sorting 100 elements with SelectionSort:
+0 in nanoseconds
+Time spent in sorting 1000 elements with SelectionSort:
+340041 in nanoseconds
+===============
+Time spent in sorting 10 elements with InsertionSort:
+0 in nanoseconds
+Time spent in sorting 100 elements with InsertionSort:
+9991 in nanoseconds
+Time spent in sorting 1000 elements with InsertionSort:
+130040 in nanoseconds
+===============
+Time spent in sorting 10 elements with MergeSort:
+0 in nanoseconds
+Time spent in sorting 100 elements with MergeSort:
+10019 in nanoseconds
+Time spent in sorting 1000 elements with MergeSort:
+120031 in nanoseconds
+===============
+Time spent in sorting 10 elements with QuickSort:
+20023 in nanoseconds
+Time spent in sorting 100 elements with QuickSort:
+0 in nanoseconds
+Time spent in sorting 1000 elements with QuickSort:
+60030 in nanoseconds

@@ -1,5 +1,3 @@
-package ordenacao.algoritms;
-
 import ordenacao.Sorter;
 
 public class MergeSort implements Sorter {
